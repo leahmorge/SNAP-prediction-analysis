@@ -18,7 +18,6 @@ The results are visualized in QGIS to examine geographic variation in predicted 
 ## Tools & Technologies
 - QGIS (geospatial visualization and mapping)  
 - Python (data processing and modeling)  
-- Excel (data cleaning and preparation)  
 - SNAP Quality Control (QC) Data  
 
 ---
@@ -62,11 +61,6 @@ Excess shelter deductions are highest in states where housing costs frequently e
 
 ## Why This Matters
 Predicting SNAP participation and benefit patterns can help inform policy decisions, resource allocation, and program accessibility. By combining predictive analysis with geospatial visualization, this project highlights how regional cost differences—particularly housing—may influence food assistance needs.
-
----
-
-## Status
-🚧 This project is being refined with additional documentation and outputs.
 
 ---
 
